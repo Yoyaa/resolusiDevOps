@@ -1,0 +1,3 @@
+resolusidevops
+- Konsisten Belajar DevOps
+- membuat silabus belajar DevOps
