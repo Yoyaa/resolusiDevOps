@@ -1,3 +1,13 @@
 resolusidevops
 - Konsisten Belajar DevOps
-- membuat silabus belajar DevOps
+- membuat silabus belajar DevOps menggunakan Open AI.
+- Dafftar Tols yang harus di kuasai
+- Gabung Komunitas DevOps
+
+Silabus
+*Pengenalan dan Dasar-dasar DevOps
+*Mempelajari Alat-alat DevOps
+*Pipeline CI/CD
+*Infrastruktur sebagai Kode (IaC)
+*Monitoring dan Logging
+*Keamanan dalam DevOps
