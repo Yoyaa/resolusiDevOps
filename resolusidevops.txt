@@ -11,3 +11,14 @@ Silabus
 *Infrastruktur sebagai Kode (IaC)
 *Monitoring dan Logging
 *Keamanan dalam DevOps
+
+Tools yang harus di kuasai/ dipelajari
+1 Git dan GitHub: Untuk versi kontrol dan kolaborasi.
+2 Jenkins: Untuk membangun pipeline CI/CD.
+3 Docker: Untuk containerization.
+4 Kubernetes: Untuk orkestrasi container.
+5 Terraform: Untuk infrastruktur sebagai kode.
+6 Ansible: Untuk automasi konfigurasi.
+7 Prometheus & Grafana: Untuk monitoring.
+8 ELK Stack (Elasticsearch, Logstash, Kibana): Untuk logging.
+9 Vault: Untuk manajemen rahasia dan enkripsi.
