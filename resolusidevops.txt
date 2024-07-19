@@ -16,6 +16,7 @@ Tools yang harus di kuasai/ dipelajari
 1 Git dan GitHub: Untuk versi kontrol dan kolaborasi.
 2 Jenkins (baca Genkins): Untuk membangun pipeline CI/CD.
     ^Tools ini bisa di pelajari pada Youtube Programer Zaman Now youtube.com/watch?v=qKI7Y2sUjbU
+    ^detail tentang "Pipeline CI/CD" youtube.com/watch?v=5KP9khJMJ8o
 3 Docker: Untuk containerization.
 4 Kubernetes: Untuk orkestrasi container.
 5 Terraform: Untuk infrastruktur sebagai kode.
@@ -23,4 +24,4 @@ Tools yang harus di kuasai/ dipelajari
 7 Prometheus & Grafana: Untuk monitoring.
 8 ELK Stack (Elasticsearch, Logstash, Kibana): Untuk logging.
 9 Vault: Untuk manajemen rahasia dan enkripsi.
-Tools di atas hanya sebagian dari banyak yang lain yang bisa di manfaatkan, penggunaan bisa dengan tools yang lain menyesuaikan dengan kebutuhan klompok yang di sepakati.
+Tools di atas hanya sebagian dari banyak yang lain yang bisa di manfaatkan, tools yang lain menyesuaikan dengan kebutuhan klompok yang di sepakati.
