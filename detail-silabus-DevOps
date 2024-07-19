@@ -8,7 +8,7 @@ Aktivitas:
 -Membaca artikel dan buku dasar DevOps.
 Sumber Belajar:
 -Video: DevOps Explained
--Buku: "The Phoenix Project" oleh Gene Kim, Kevin Behr, dan George Spafford.
+-Buku:  "The Phoenix Project" oleh Gene Kim, Kevin Behr, dan George Spafford - Bahasa Inggris (Novel).
 KEDUA
 Tujuan: Mengenal proses dan praktik DevOps.
 Aktivitas: 
@@ -33,7 +33,7 @@ Membuat pipeline CI/CD sederhana dengan Jenkins.
 Sumber Belajar:
 Video: Jenkins Tutorial for Beginners youtube.com/watch?v=qKI7Y2sUjbU&pp=ygUTSmVua2lucyB1bnR1ayBDSS9DRA%3D%3D
 
-Bab 3 Pipeline CI/CD
+Bab 3 Pipeline CI/CD (Continuous Integration / Continuous Delivery)
 PERTAMA
 Tujuan: Membuat pipeline CI/CD yang lebih kompleks.
 Aktivitas:
