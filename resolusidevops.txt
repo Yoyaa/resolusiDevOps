@@ -14,7 +14,8 @@ Silabus
 
 Tools yang harus di kuasai/ dipelajari
 1 Git dan GitHub: Untuk versi kontrol dan kolaborasi.
-2 Jenkins: Untuk membangun pipeline CI/CD.
+2 Jenkins (baca Genkins): Untuk membangun pipeline CI/CD.
+    ^Tools ini bisa di pelajari pada Youtube Programer Zaman Now youtube.com/watch?v=qKI7Y2sUjbU
 3 Docker: Untuk containerization.
 4 Kubernetes: Untuk orkestrasi container.
 5 Terraform: Untuk infrastruktur sebagai kode.
