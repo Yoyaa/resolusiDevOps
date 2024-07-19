@@ -22,3 +22,4 @@ Tools yang harus di kuasai/ dipelajari
 7 Prometheus & Grafana: Untuk monitoring.
 8 ELK Stack (Elasticsearch, Logstash, Kibana): Untuk logging.
 9 Vault: Untuk manajemen rahasia dan enkripsi.
+Tools di atas hanya sebagian dari banyak yang lain yang bisa di manfaatkan, penggunaan bisa dengan tools yang lain menyesuaikan dengan kebutuhan klompok yang di sepakati.
