@@ -1,0 +1,98 @@
+Detail Silabus DevOps
+
+Bab 1 Pengenalan dan Dasar-dasar DevOps
+PERTAMA
+Tujuan: Memahami konsep dasar DevOps dan filosofinya.
+Aktivitas: 
+-Menonton video pengantar DevOps.
+-Membaca artikel dan buku dasar DevOps.
+Sumber Belajar:
+-Video: DevOps Explained
+-Buku:  "The Phoenix Project" oleh Gene Kim, Kevin Behr, dan George Spafford - Bahasa Inggris (Novel).
+KEDUA
+Tujuan: Mengenal proses dan praktik DevOps.
+Aktivitas: 
+-Menonton video tentang praktik DevOps.
+-Membuat catatan alur kerja DevOps.
+Sumber Belajar:
+-Video: DevOps Practices
+
+Bab 2 Mempelajari Alat-alat DevOps
+PERTAMA
+Tujuan: Belajar menggunakan Git dan GitHub.
+Aktivitas:
+Menonton tutorial Git dan GitHub.
+Membuat proyek sederhana di GitHub.
+Sumber Belajar:
+Video: Git & GitHub Tutorial for Beginners youtube.com/playlist?list=PLFIM0718LjIVknj6sgsSceMqlq242-jNf
+KEDUA
+Tujuan: Belajar menggunakan Jenkins untuk CI/CD.
+Aktivitas:
+Menonton tutorial Jenkins.
+Membuat pipeline CI/CD sederhana dengan Jenkins.
+Sumber Belajar:
+Video: Jenkins Tutorial for Beginners youtube.com/watch?v=qKI7Y2sUjbU&pp=ygUTSmVua2lucyB1bnR1ayBDSS9DRA%3D%3D
+
+Bab 3 Pipeline CI/CD (Continuous Integration / Continuous Delivery)
+PERTAMA
+Tujuan: Membuat pipeline CI/CD yang lebih kompleks.
+Aktivitas:
+Menonton tutorial pipeline CI/CD lanjutan.
+Membangun pipeline CI/CD untuk proyek yang lebih besar.
+Sumber Belajar:
+Video: Advanced CI/CD Pipeline
+KEDUA
+Tujuan: Mengintegrasikan testing dalam pipeline CI/CD.
+Aktivitas:
+Menonton tutorial tentang integrasi testing.
+Menambahkan testing ke dalam pipeline CI/CD.
+Sumber Belajar:
+Video: Integrating Testing in CI/CD
+
+Bab 4 Infrastruktur sebagai Kode (IaC)
+PERTAMA
+Tujuan: Belajar menggunakan Terraform.
+Aktivitas:
+Menonton tutorial Terraform.
+Membangun infrastruktur sederhana dengan Terraform.
+Sumber Belajar:
+Video: Terraform Tutorial for Beginners
+KEDUA
+Tujuan: Mengelola infrastruktur dengan Ansible.
+Aktivitas:
+Menonton tutorial Ansible.
+Menggunakan Ansible untuk mengelola infrastruktur.
+Sumber Belajar:
+Video: Ansible Tutorial for Beginners
+
+Bab 5 Monitoring dan Logging
+PERTAMA
+Tujuan: Belajar menggunakan Prometheus dan Grafana.
+Aktivitas:
+Menonton tutorial Prometheus dan Grafana.
+Menerapkan monitoring dengan Prometheus dan Grafana.
+Sumber Belajar:
+Video: Prometheus & Grafana Tutorial
+KEDUA
+Tujuan: Mempelajari logging dengan ELK Stack.
+Aktivitas:
+Menonton tutorial ELK Stack.
+Menerapkan logging dengan ELK Stack.
+Sumber Belajar:
+Video: ELK Stack Tutorial
+
+Bab 6 Keamanan dalam DevOps
+PERTAMA
+Tujuan: Memahami konsep DevSecOps.
+Aktivitas:
+Menonton video pengantar DevSecOps.
+Membaca artikel tentang DevSecOps.
+Sumber Belajar:
+Video: DevSecOps Explained
+KEDUA
+Tujuan: Menerapkan keamanan dalam pipeline CI/CD.
+Aktivitas:
+Menonton tutorial tentang keamanan dalam CI/CD.
+Menerapkan praktik keamanan dalam pipeline CI/CD.
+Sumber Belajar:
+Video: Securing Your CI/CD Pipeline
